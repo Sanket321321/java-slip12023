@@ -1,0 +1,12 @@
+import numpy as np
+from matplotlib import pyplot as plt
+import pandas as pd
+data=pd.read_csv('data.csv')
+data.head()
+
+
+
+
+import pandas as pd 
+df=pd.read_csv('heart.csv')
+df
