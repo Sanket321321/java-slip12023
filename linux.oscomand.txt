@@ -1,0 +1,24 @@
+touch read.sh
+vim read.ch
+sudo apt install vim
+
+//touch sanket.c
+cd sanket
+touch sanket.c
+
+
+gcc  sanket.c -o sanket
+./forken
+
+
+@@@@@@@@
+
+first 
+mkdir sanket 
+
+2:- write program 
+3:- save program on sanket directory 
+4:-open terminal
+5:-cd sanket
+6:- ls command and check file save or not if save 
+7:- used gcc command
